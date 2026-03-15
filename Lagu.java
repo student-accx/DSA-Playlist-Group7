@@ -1,6 +1,6 @@
 /*
 Nama  : Maxwell
-NIM   : (NIM Maxwell)
+NIM   : 2902689521
 */
 
 // Class Lagu digunakan untuk merepresentasikan data setiap lagu dalam playlist
