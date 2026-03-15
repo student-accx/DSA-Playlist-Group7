@@ -1,11 +1,8 @@
 /*
-Tugas Kelompok 1 - Data Structures and Algorithm Analysis
-
 Nama  : Wahyu Tri Anggoro
 NIM   : 2902692554
 Bagian: Class Member
 
-Deskripsi:
 Class Member digunakan untuk melihat playlist, mencari lagu,
 dan menghitung rata-rata durasi lagu dalam playlist.
 */
