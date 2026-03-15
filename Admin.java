@@ -1,6 +1,6 @@
 /*
-Nama  : Giorgio 
-NIM   : (NIM Gio)
+Nama  : Giorgio Wilson Wong
+NIM   : 2902692705
 */
 
 class Admin extends User {
