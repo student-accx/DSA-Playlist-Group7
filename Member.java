@@ -1,11 +1,6 @@
 /*
 Nama  : Wahyu Tri Anggoro
 NIM   : 2902692554
-
-Class Member merupakan turunan dari class User.
-Class ini digunakan oleh pengguna playlist untuk melihat daftar lagu,
-mencari lagu berdasarkan judul, serta menghitung rata-rata durasi lagu
-yang ada di dalam playlist.
 */
 
 class Member extends User {
